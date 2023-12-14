@@ -1,4 +1,6 @@
 # CNN-SpokenDigits-Images
+Moved this here from old repository May 21, 2020
+
 MelSpectrogram Classifications of Spoken Digits
 
 ![GitHub Logo](update_cnn_results.png)
